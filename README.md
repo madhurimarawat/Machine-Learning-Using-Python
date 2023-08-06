@@ -84,6 +84,7 @@ This repository contains machine learning programs in the Python programming lan
 to operate on array and matrices. </li>
   <li>Pandas (Panel Data/ Python Data Analysis) - This library is mostly used for analyzing,
 cleaning, exploring, and manipulating data.</li>
+  <li>Matplotlib - It is a data visualization and graphical plotting library.</li>
 <li>Scikit-learn - It is a machine learning library that enables tools for used for many other
 machine learning algorithms such as classification, prediction, etc.</li>
   
