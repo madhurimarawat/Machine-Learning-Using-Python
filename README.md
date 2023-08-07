@@ -101,12 +101,14 @@ This repository contains machine learning programs in the Python programming lan
 --> Dataset is already cleaned,no preprocessing required.<br>
 
 <h2>Naive bayes classification data</h2>
+--> Dataset is taken from: <a href="https://www.kaggle.com/datasets/himanshunakrani/naive-bayes-classification-data"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-1024.png" height =40 width=40 title="Naive bayes classification data"> </a><br><br>
 --> Contains diabetes data for classification.<br><br>
 --> The dataset has 3 columns-glucose, blood pressure and diabetes and 995 entries.<br><br>
 --> Column glucose and blood pressure data is to classify whether the patient has diabetes or not.<br><br>
 --> Dataset is already cleaned,no preprocessing required.<br>
 
-<h2>Red wine Quality</h2>
+<h2>Red wine Quality Dataset</h2>
+--> Dataset is taken from: <a href="https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-1024.png" height =40 width=40 title="Red wine Quality Dataset" alt="Red wine Quality Dataset"> </a><br><br>
 --> Input variables (based on physicochemical tests):<br><br>
 <table>
   <td>1. fixed acidity </td>     <td>2. volatile acidity</td>    <td>3. citric acid </td>  <td>4. residual sugar</td>  <td>5. chlorides</td>
@@ -117,6 +119,7 @@ This repository contains machine learning programs in the Python programming lan
 --> Dataset is already cleaned,no preprocessing required.<br>
 
 <h2>Cars Evaluation Dataset</h2>
+--> Dataset is taken from: <a href="https://www.kaggle.com/datasets/elikplim/car-evaluation-data-set"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-1024.png" height =40 width=40 title="Cars Evaluation Dataset" alt="Cars Evaluation Dataset"> </a><br><br>
 --> Contains information about cars with respect to features like Attribute Values:<br><br>
 <table>
 <td>1. buying v-high, high, med, low </td>
@@ -135,6 +138,7 @@ This repository contains machine learning programs in the Python programming lan
 --> Dataset is not cleaned, preprocessing is required.<br>
 
 <h2>Census/Adult Dataset </h2>
+--> Dataset is taken from: <a href="https://www.kaggle.com/code/prashant111/naive-bayes-classifier-in-python/input"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-1024.png" height =40 width=40 title="Census/Adult Dataset" alt="Census/Adult Dataset"> </a><br><br>
 --> Contains dataset of population in various parameters like employment,marital status,gender,ethnicity etc.<br><br>
 --> Model need to predict if income is greater than 50K or not.<br><br>
 --> Contains Values in string format.<br><br>
