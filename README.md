@@ -70,6 +70,31 @@ This repository contains machine learning programs in the Python programming lan
 --> Instead of relying on one decision tree, the random forest takes the prediction from each tree and based on the majority votes of predictions, and it predicts the final output.<br><br>
 --> The greater number of trees in the forest leads to higher accuracy and prevents the problem of overfitting.<br><br>
 
+<h3>vi) Linear Regression</h3>
+<br>
+--> Regression: It predicts the continuous output variables based on the independent input variable. like the prediction of house prices based on different parameters like house age, distance from the main road, location, area, etc.<br><br>
+--> It computes the linear relationship between a dependent variable and one or more independent features. <br><br>
+--> The goal of the algorithm is to find the best linear equation that can predict the value of the dependent variable based on the independent variables.<br>
+<h3>Types of Linear Regression</h3>
+<h4>1. Univariate Linear regression</h4>
+--> When the number of the independent feature, is 1 then it is known as Univariate Linear regression.<br>
+<h4>2. Multivariatee Linear regression</h4>
+--> In the case of more than one feature, it is known as multivariate linear regression.<br><br>
+
+<h3>vii) Logistic Regression</h3>
+<br>
+--> Logistic regression is a supervised machine learning algorithm mainly used for classification tasks where the goal is to predict the probability that an instance of belonging to a given class or not. <br><br>
+--> It is a kind of statistical algorithm, which analyze the relationship between a set of independent variables and the dependent binary variables. <br><br>
+--> It is a powerful tool for decision-making.<br><br>
+--> For example email spam or not. <br>
+<h3>Types of Logistic Regression</h3>
+<h4>1. Binomial Logistic regression</h4>
+--> In binomial Logistic regression, there can be only two possible types of the dependent variables, such as 0 or 1, Pass or Fail, etc.<br>
+<h4>2. Multinomial Logistic regression</h4>
+--> In multinomial Logistic regression, there can be 3 or more possible unordered types of the dependent variable, such as “cat”, “dogs”, or “sheep”.<br>
+<h4>3. Ordinal Logistic regression</h4>
+--> In ordinal Logistic regression, there can be 3 or more possible ordered types of dependent variables, such as “low”, “Medium”, or “High”.<br><br>
+
 <h2>2. Unsupervised Learning</h2>
 
 --> Unsupervised learning is the training of a machine using information that is neither classified nor labeled and allowing the algorithm to act on that information without guidance.<br><br>
@@ -143,6 +168,22 @@ This repository contains machine learning programs in the Python programming lan
 --> Model need to predict if income is greater than 50K or not.<br><br>
 --> Contains Values in string format.<br><br>
 --> Dataset is not cleaned, preprocessing is required.<br>
+
+<h2>Salary Dataset</h2>
+--> Dataset is taken from: <a href="https://www.kaggle.com/datasets/abhishek14398/salary-dataset-simple-linear-regression
+"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-1024.png" height =40 width=40 title="Salary Dataset" alt="Salary Dataset"> </a><br><br>
+--> Contains Salary data for Regression.<br><br>
+--> The dataset has 2 columns-Years of Experience and Salary and 30 entries.<br><br>
+--> Column Years of Experience is used to find regression for Salary.<br><br>
+--> Dataset is already cleaned,no preprocessing required.<br>
+
+<h2>USA Housing Dataset</h2>
+--> Dataset is taken from: <a href="https://www.kaggle.com/code/gantalaswetha/usa-housing-dataset-linear-regression/input
+"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-1024.png" height =40 width=40 title="Housing Dataset" alt="Housing Dataset"> </a><br><br>
+--> Contains Housing data for Regression.<br><br>
+--> This dataset has multiple columns-Area Population, Address etc and Price(Output) and 5000 entries.<br><br>
+--> Rest of the Columns are used to find regression for Price.<br><br>
+--> Dataset is already cleaned,no preprocessing required.<br>
 
 ---
 
