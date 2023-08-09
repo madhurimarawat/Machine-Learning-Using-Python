@@ -76,9 +76,9 @@ This repository contains machine learning programs in the Python programming lan
 --> It computes the linear relationship between a dependent variable and one or more independent features. <br><br>
 --> The goal of the algorithm is to find the best linear equation that can predict the value of the dependent variable based on the independent variables.<br>
 <h3>Types of Linear Regression</h3>
-<h4>1. Univariate Linear regression</h4>
+<h4>1. Univariate/Simple Linear regression</h4>
 --> When the number of the independent feature, is 1 then it is known as Univariate Linear regression.<br>
-<h4>2. Multivariatee Linear regression</h4>
+<h4>2. Multivariate/Multiple Linear regression</h4>
 --> In the case of more than one feature, it is known as multivariate linear regression.<br><br>
 
 <h3>vii) Logistic Regression</h3>
@@ -96,9 +96,13 @@ This repository contains machine learning programs in the Python programming lan
 --> In ordinal Logistic regression, there can be 3 or more possible ordered types of dependent variables, such as “low”, “Medium”, or “High”.<br><br>
 
 <h2>2. Unsupervised Learning</h2>
-
 --> Unsupervised learning is the training of a machine using information that is neither classified nor labeled and allowing the algorithm to act on that information without guidance.<br><br>
 --> Here the task of the machine is to group unsorted information according to similarities, patterns, and differences without any prior training of data. <br>
+<h3>i) Apriori Algorithm</h3>
+--> Apriori is an algorithm for frequent item set mining and association rule learning over relational databases.<br><br>
+--> It proceeds by identifying the frequent individual items in the database and extending them to larger and larger item sets as long as those item sets appear sufficiently often in the database.<br><br>
+--> The frequent item sets determined by Apriori can be used to determine association rules which highlight general trends in the database.<br><br>
+--> This has applications in domains such as market basket analysis.<br>
 
 ---
 # Dataset Used
@@ -185,6 +189,20 @@ This repository contains machine learning programs in the Python programming lan
 --> Rest of the Columns are used to find regression for Price.<br><br>
 --> Dataset is already cleaned,no preprocessing required.<br>
 
+<h2>Credit Card Fraud Dataset</h2>
+--> Dataset is taken from: <a href="https://www.kaggle.com/code/janiobachmann/credit-fraud-dealing-with-imbalanced-datasets/input
+"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-1024.png" height =40 width=40 title="Salary Dataset" alt="Salary Dataset"> </a><br><br>
+--> Contains Fraud data for Regression.<br><br>
+--> The dataset has 31 columns.<br><br>
+--> Dataset is already cleaned,no preprocessing required.<br>
+
+<h2>Market Bucket Optimization Dataset</h2>
+--> Dataset is taken from: <a href="https://www.kaggle.com/datasets/dragonheir/basket-optimisation
+"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-1024.png" height =40 width=40 title="Salary Dataset" alt="Salary Dataset"> </a><br><br>
+--> Contains various product data for Apriori or association algorithm.<br><br>
+--> The dataset has 20 columns of data about various products.<br><br>
+--> Dataset is already cleaned,no preprocessing required.<br>
+
 ---
 
 # Libraries Used 📚 💻
@@ -197,6 +215,6 @@ cleaning, exploring, and manipulating data.</li>
   <li>Matplotlib - It is a data visualization and graphical plotting library.</li>
 <li>Scikit-learn - It is a machine learning library that enables tools for used for many other
 machine learning algorithms such as classification, prediction, etc.</li>
-  
+  <li>Mlxtend (machine learning extensions)- It is a library of extension and helper modules for Python's data analysis and machine learning libraries.</li>
 </ul>
 
