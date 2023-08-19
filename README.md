@@ -97,12 +97,38 @@ This repository contains machine learning programs in the Python programming lan
 
 <h2>2. Unsupervised Learning</h2>
 --> Unsupervised learning is the training of a machine using information that is neither classified nor labeled and allowing the algorithm to act on that information without guidance.<br><br>
---> Here the task of the machine is to group unsorted information according to similarities, patterns, and differences without any prior training of data. <br>
-<h3>i) Apriori Algorithm</h3>
+--> Here the task of the machine is to group unsorted information according to similarities, patterns, and differences without any prior training of data. <br><br>
+--> Unsupervised learning models are utilized for three main tasks— association, clustering and dimensionality reduction.<br><br>
+
+<h3>i) Association Rules</h3>
+--> An association rule is a rule-based method for finding relationships between variables in a given dataset.<br><br>
+--> These methods are frequently used for market basket analysis, allowing companies to better understand relationships between different products.<br><br>
+--> Understanding consumption habits of customers enables businesses to develop better cross-selling strategies and recommendation engines.<br><br>
+--> Examples of this can be seen in Amazon’s “Customers Who Bought This Item Also Bought” or Spotify’s "Discover Weekly" playlist.<br>
+
+<h3>Types of Association Rules</h3>
+
+<h4>1. Apriori Algorithm</h4>
 --> Apriori is an algorithm for frequent item set mining and association rule learning over relational databases.<br><br>
 --> It proceeds by identifying the frequent individual items in the database and extending them to larger and larger item sets as long as those item sets appear sufficiently often in the database.<br><br>
 --> The frequent item sets determined by Apriori can be used to determine association rules which highlight general trends in the database.<br><br>
---> This has applications in domains such as market basket analysis.<br>
+--> This has applications in domains such as market basket analysis.<br><br>
+
+<h3>ii) Clustering</h3>
+--> Clustering is a data mining technique which groups unlabeled data based on their similarities or differences.<br><br>
+--> Clustering algorithms are used to process raw, unclassified data objects into groups represented by structures or patterns in the information.<br><br>
+--> Clustering algorithms can be categorized into a few types, specifically exclusive, overlapping, hierarchical, and probabilistic.<br><br>
+
+<h3>iii) Dimentionality Reduction</h3>
+--> Dimensionality reduction is a technique used when the number of features, or dimensions, in a given dataset is too high.<br><br>
+--> It reduces the number of data inputs to a manageable size while also preserving the integrity of the dataset as much as possible.<br><br>
+--> It is commonly used in the preprocessing data stage.<br>
+<h3>Types of Dimentionality Reduction</h3>
+<h4>1. Principal component analysis</h4>
+--> Principal component analysis (PCA) is a type of dimensionality reduction algorithm which is used to reduce redundancies and to compress datasets through feature extraction.<br><br>
+--> This method uses a linear transformation to create a new data representation, yielding a set of "principal components."<br><br>
+--> The first principal component is the direction which maximizes the variance of the dataset.<br><br>
+--> While the second principal component also finds the maximum variance in the data, it is completely uncorrelated to the first principal component, yielding a direction that is perpendicular, or orthogonal, to the first component.<br>
 
 ---
 # Dataset Used
@@ -204,7 +230,14 @@ This repository contains machine learning programs in the Python programming lan
 --> Dataset is already cleaned,no preprocessing required.<br>
 
 ---
+### Deep Learning 🤖🛠🧠🕸️
+--> Deep learning is a subset of machine learning, which is essentially a neural network with three or more layers.<br><br>
+--> These neural networks attempt to simulate the behavior of the human brain—albeit far from matching its ability—allowing it to “learn” from large amounts of data.<br><br>
+--> While a neural network with a single layer can still make approximate predictions, additional hidden layers can help to optimize and refine for accuracy.<br><br>
+--> Deep learning drives many artificial intelligence (AI) applications and services that improve automation, performing analytical and physical tasks without human intervention.<br><br>
+--> Deep learning technology lies behind everyday products and services (such as digital assistants, voice-enabled TV remotes, and credit card fraud detection) as well as emerging technologies (such as self-driving cars).<br>
 
+---
 # Libraries Used 📚 💻
 <p>Short Description about all libraries used.</p>
 <ul>
