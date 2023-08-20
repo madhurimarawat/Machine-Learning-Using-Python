@@ -240,6 +240,7 @@ This repository contains machine learning programs in the Python programming lan
 ---
 # Libraries Used 📚 💻
 <p>Short Description about all libraries used.</p>
+To install python library this command is used- pip install library_name <br><br>
 <ul>
 <li>NumPy (Numerical Python) – Enables with collection of mathematical functions
 to operate on array and matrices. </li>
