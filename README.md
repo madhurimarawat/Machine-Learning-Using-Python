@@ -266,3 +266,11 @@ machine learning algorithms such as classification, prediction, etc.</li>
   <li>Mlxtend (machine learning extensions)- It is a library of extension and helper modules for Python's data analysis and machine learning libraries.</li>
 </ul>
 
+---
+
+# Thanks for Visiting 😄
+
+Drop a 🌟 if you find this repository useful.<br><br>
+If you have any doubts or suggestions, feel free to reach me.<br><br>
+📫 How to reach me:  &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-madhurima-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/madhurima-rawat/) &nbsp; &nbsp;
+<a href ="mailto:rawatmadhurima@gmail.com"><img src="https://www.freepnglogos.com/uploads/arrow-with-e-mail-logo-png-7.png" height=35 width=30 > </a>
