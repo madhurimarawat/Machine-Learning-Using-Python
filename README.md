@@ -13,6 +13,20 @@ This repository contains machine learning programs in the Python programming lan
 --> The biggest strength of Python is huge collection of standard library .<br>
 
 ---
+# Mode of Execution Used <img src="https://th.bing.com/th/id/R.c936445e15a65dfdba20a63e14e7df39?rik=fqWqO9kKIVlK7g&riu=http%3a%2f%2fassets.stickpng.com%2fimages%2f58481537cef1014c0b5e4968.png&ehk=dtrTKn1QsJ3%2b2TFlSfLR%2fxHdNYHdrqqCUUs8voipcI8%3d&risl=&pid=ImgRaw&r=0" title="PyCharm" alt="PyCharm" width="40" height="40">
+
+<h2>Pycharm</h2>
+
+--> Visit the official website of pycharm: <a href="https://www.jetbrains.com/pycharm/"><img src="https://th.bing.com/th/id/R.c936445e15a65dfdba20a63e14e7df39?rik=fqWqO9kKIVlK7g&riu=http%3a%2f%2fassets.stickpng.com%2fimages%2f58481537cef1014c0b5e4968.png&ehk=dtrTKn1QsJ3%2b2TFlSfLR%2fxHdNYHdrqqCUUs8voipcI8%3d&risl=&pid=ImgRaw&r=0" title="PyCharm" alt="PyCharm" width="40" height="40"></a><br><br>
+--> Download according to the platform that will be used like Linux, Macos or Windows.<br><br>
+--> Follow the setup wizard and sign up for the free version (trial version) or else continue with the premium or paid version.<br><br>
+--> First, in pycharm we have the concept of virtual environment. In virtual environment we can install all the required libraries or frameworks.<br><br>
+--> Each project has its own virtual environment, so thath we can install requirements like Libraries or Framworks for that project only.<br><br>
+--> After this we can create a new file, various file types are available in pycharm like script files, text files and also Jupyter Notebooks.<br><br>
+--> After selecting the required file type, we can continue the execution of that file by saving it and using this shortcut shift+F10 (In Windows).<br><br>
+--> Output is given in Console while installation happens in terminal in Pycharm.
+
+---
 
 # Machine learning 🤖 🛠🧠
 <br>
