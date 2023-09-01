@@ -282,10 +282,23 @@ machine learning algorithms such as classification, prediction, etc.</li>
 </ul>
 
 ---
+### Additional Resources 🧮📚📓🌐
 
-# Thanks for Visiting 😄
+1. p2j- This python library is used to convert python script files to jupyter notebooks.The syntax is
+    
+  ```
+p2j python_script.py
+  ```
+Where script.py is the name of script file.<br><br>
+--> After executing this command in the console or command prompt of the file location Jupyter notebook will be written in the same location.
+
+2. Flask- This Python framwork is used to deploy machine learning models.
+
+---
+
+## Thanks for Visiting 😄
 
 Drop a 🌟 if you find this repository useful.<br><br>
 If you have any doubts or suggestions, feel free to reach me.<br><br>
 📫 How to reach me:  &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-madhurima-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/madhurima-rawat/) &nbsp; &nbsp;
-<a href ="mailto:rawatmadhurima@gmail.com"><img src="https://www.freepnglogos.com/uploads/arrow-with-e-mail-logo-png-7.png" height=35 width=30 title="Mail Illustration" alt="Mail Illustration📫" > </a>
+<a href ="mailto:rawatmadhurima@gmail.com"><img src="https://github.com/madhurimarawat/Machine-Learning-Using-Python/assets/105432776/b6a0873a-e961-42c0-8fbf-ab65828c961a" height=35 width=30 title="Mail Illustration" alt="Mail Illustration📫" > </a>
