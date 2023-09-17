@@ -242,7 +242,7 @@ This repository contains machine learning programs in the Python programming lan
 <h2>Credit Card Fraud Dataset</h2>
 --> Dataset is taken from: <a href="https://www.kaggle.com/code/janiobachmann/credit-fraud-dealing-with-imbalanced-datasets/input
 "><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-1024.png" height =40 width=40 title="Salary Dataset" alt="Salary Dataset"> </a><br><br>
---> Contains Fraud data for Regression.<br><br>
+--> Contains Fraud data for Classification.<br><br>
 --> The dataset has 31 columns.<br><br>
 --> Dataset is already cleaned,no preprocessing required.<br>
 
