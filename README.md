@@ -253,6 +253,17 @@ This repository contains machine learning programs in the Python programming lan
 --> The dataset has 20 columns of data about various products.<br><br>
 --> Dataset is already cleaned,no preprocessing required.<br>
 
+<h2>CIFAR-10 Dataset</h2>
+
+--> CIFAR-10 is a dataset used in computer vision tasks.<br><br>
+--> It consists of 60,000 color images.<br><br>
+--> These images are divided into 10 different classes.<br><br>
+--> Each class contains 6,000 images.<br><br>
+--> The dataset is typically split into 50,000 training images and 10,000 test images.<br><br>
+--> Common classes in CIFAR-10 include airplanes, automobiles, birds, cats, dogs, and more.<br><br>
+--> The primary purpose of CIFAR-10 is for image classification and object recognition.<br><br>
+--> Researchers and developers often use it to benchmark and evaluate machine learning and deep learning algorithms.
+
 ---
 ### Deep Learning 🤖🛠🧠🕸️
 --> Deep learning is a subset of machine learning, which is essentially a neural network with three or more layers.<br><br>
@@ -279,6 +290,8 @@ cleaning, exploring, and manipulating data.</li>
 <li>Scikit-learn - It is a machine learning library that enables tools for used for many other
 machine learning algorithms such as classification, prediction, etc.</li>
   <li>Mlxtend (machine learning extensions)- It is a library of extension and helper modules for Python's data analysis and machine learning libraries.</li>
+  <li>TensorFlow (tf)- TensorFlow is an open-source machine learning framework developed by Google.</li>
+<li>Keras- Keras is an open-source deep learning framework that serves as an interface for TensorFlow and other backends, making it easier to build and train neural networks.</li>
 </ul>
 
 ---
