@@ -141,7 +141,13 @@ This repository contains machine learning programs in the Python programming lan
 <h3>ii) Clustering</h3>
 --> Clustering is a data mining technique which groups unlabeled data based on their similarities or differences.<br><br>
 --> Clustering algorithms are used to process raw, unclassified data objects into groups represented by structures or patterns in the information.<br><br>
---> Clustering algorithms can be categorized into a few types, specifically exclusive, overlapping, hierarchical, and probabilistic.<br><br>
+--> Clustering algorithms can be categorized into a few types, specifically exclusive, overlapping, hierarchical, and probabilistic.<br>
+<h3>Types of Clustering</h3>
+<h4>1. K Means Clustering</h4>
+--> K-Means Clustering is an unsupervised machine learning algorithm.<br><br>
+--> Its objective is to group data points into K clusters to minimize the variance within each cluster.<br><br>
+--> The process involves iteratively assigning data points to the nearest cluster centroid and updating the centroids until convergence.<br><br>
+--> K-Means is commonly applied in various domains such as customer segmentation, image compression, and anomaly detection.<br><br>
 
 <h3>iii) Dimentionality Reduction</h3>
 --> Dimensionality reduction is a technique used when the number of features, or dimensions, in a given dataset is too high.<br><br>
@@ -262,7 +268,13 @@ This repository contains machine learning programs in the Python programming lan
 --> The dataset is typically split into 50,000 training images and 10,000 test images.<br><br>
 --> Common classes in CIFAR-10 include airplanes, automobiles, birds, cats, dogs, and more.<br><br>
 --> The primary purpose of CIFAR-10 is for image classification and object recognition.<br><br>
---> Researchers and developers often use it to benchmark and evaluate machine learning and deep learning algorithms.
+--> Researchers and developers often use it to benchmark and evaluate machine learning and deep learning algorithms.<br>
+
+<h2>Mall Customers Dataset</h2>
+--> Dataset is taken from: <a href="https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python/data"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-1024.png" height =40 width=40 title="Housing Dataset" alt="Housing Dataset"> </a><br><br>
+--> Contains Mall Customers data for Clustering.<br><br>
+--> Gender, Age, Annual Income (k$) and Spending Score (1-100) columns are used to cluster data points.<br><br>
+--> Dataset is already cleaned,no preprocessing required.
 
 ---
 ### Deep Learning 🤖🛠🧠🕸️
