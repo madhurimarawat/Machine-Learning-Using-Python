@@ -169,28 +169,32 @@ This repository contains machine learning programs in the Python programming lan
 --> Iris has 4 numerical features and a tri class target variable.<br><br>
 --> This dataset can be used for classification as well as clustering.<br><br>
 --> In this dataset, there are 4 features sepal length, sepal width, petal length and petal width and the target variable has 3 classes namely ‘setosa’, ‘versicolor’, and ‘virginica’.<br><br>
---> Objective for a multiclass classifier is to predict the target class given the values for the four features.<br><br.
---> Dataset is already cleaned,no preprocessing required.<br>
+--> Objective for a multiclass classifier is to predict the target class given the values for the four features.<br><br>
+--> Dataset is already cleaned,no preprocessing required.<br><br>
+--> K-Nearest Neighbor and Support Vector Machine is implemented on this dataset.<br>
 
 <h2>Breast Cancer Dataset</h2>
 --> The breast cancer dataset is a classification dataset that contains 569 samples of malignant and benign tumor cells. <br><br>
 --> The samples are described by 30 features such as mean radius, texture, perimeter, area, smoothness, etc. <br><br>
 --> The target variable has 2 classes namely ‘benign’ and ‘malignant’.<br><br>
 --> Objective for a multiclass classifier is to predict the target class given the values for the features.<br><br>
---> Dataset is already cleaned,no preprocessing required.<br>
+--> Dataset is already cleaned,no preprocessing required.<br><br>
+--> K-Nearest Neighbor and Support Vector Machine is implemented on this dataset.<br>
 
 <h2>Wine Dataset</h2>
 --> The wine dataset is a classic and very easy multi-class classification dataset that is available in the sklearn library.<br><br>
 --> It contains 178 samples of wine with 13 features and 3 classes.<br><br>
 --> The goal is to predict the class of wine based on the features.<br><br>
---> Dataset is already cleaned,no preprocessing required.<br>
+--> Dataset is already cleaned,no preprocessing required.<br><br>
+--> K-Nearest Neighbor and Support Vector Machine is implemented on this dataset.<br>
 
 <h2>Naive bayes classification data</h2>
 --> Dataset is taken from: <a href="https://www.kaggle.com/datasets/himanshunakrani/naive-bayes-classification-data"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-1024.png" height =40 width=40 title="Naive bayes classification data"> </a><br><br>
 --> Contains diabetes data for classification.<br><br>
 --> The dataset has 3 columns-glucose, blood pressure and diabetes and 995 entries.<br><br>
 --> Column glucose and blood pressure data is to classify whether the patient has diabetes or not.<br><br>
---> Dataset is already cleaned,no preprocessing required.<br>
+--> Dataset is already cleaned,no preprocessing required.<br><br>
+--> Naive bayes classifier is implemented on this dataset.<br>
 
 <h2>Red wine Quality Dataset</h2>
 --> Dataset is taken from: <a href="https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-1024.png" height =40 width=40 title="Red wine Quality Dataset" alt="Red wine Quality Dataset"> </a><br><br>
@@ -201,7 +205,8 @@ This repository contains machine learning programs in the Python programming lan
 
 --> Output variable (based on sensory data):<br>
 <table><td>12 - quality (score between 0 and 10)</td></table> 
---> Dataset is already cleaned,no preprocessing required.<br>
+--> Dataset is already cleaned,no preprocessing required.<br><br>
+--> Decision Tree and Random Forest is implemented on this dataset.<br>
 
 <h2>Cars Evaluation Dataset</h2>
 --> Dataset is taken from: <a href="https://www.kaggle.com/datasets/elikplim/car-evaluation-data-set"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-1024.png" height =40 width=40 title="Cars Evaluation Dataset" alt="Cars Evaluation Dataset"> </a><br><br>
@@ -220,14 +225,16 @@ This repository contains machine learning programs in the Python programming lan
   <td>3. good 69 ( 3.993 %)</td>
   <td>4. v-good 65 ( 3.762 %)</td></table>
 --> Contains Values in string format.<br><br>
---> Dataset is not cleaned, preprocessing is required.<br>
+--> Dataset is not cleaned, preprocessing is required.<br><br>
+--> Random Forest is implemented on this dataset.<br>
 
 <h2>Census/Adult Dataset </h2>
 --> Dataset is taken from: <a href="https://www.kaggle.com/code/prashant111/naive-bayes-classifier-in-python/input"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-1024.png" height =40 width=40 title="Census/Adult Dataset" alt="Census/Adult Dataset"> </a><br><br>
 --> Contains dataset of population in various parameters like employment,marital status,gender,ethnicity etc.<br><br>
 --> Model need to predict if income is greater than 50K or not.<br><br>
 --> Contains Values in string format.<br><br>
---> Dataset is not cleaned, preprocessing is required.<br>
+--> Dataset is not cleaned, preprocessing is required.<br><br>
+--> Naive bayes classifier is implemented on this dataset.<br>
 
 <h2>Salary Dataset</h2>
 --> Dataset is taken from: <a href="https://www.kaggle.com/datasets/abhishek14398/salary-dataset-simple-linear-regression
@@ -235,7 +242,8 @@ This repository contains machine learning programs in the Python programming lan
 --> Contains Salary data for Regression.<br><br>
 --> The dataset has 2 columns-Years of Experience and Salary and 30 entries.<br><br>
 --> Column Years of Experience is used to find regression for Salary.<br><br>
---> Dataset is already cleaned,no preprocessing required.<br>
+--> Dataset is already cleaned,no preprocessing required.<br><br>
+--> Linear Regression is implemented on this dataset.<br>
 
 <h2>USA Housing Dataset</h2>
 --> Dataset is taken from: <a href="https://www.kaggle.com/code/gantalaswetha/usa-housing-dataset-linear-regression/input
@@ -243,14 +251,16 @@ This repository contains machine learning programs in the Python programming lan
 --> Contains Housing data for Regression.<br><br>
 --> This dataset has multiple columns-Area Population, Address etc and Price(Output) and 5000 entries.<br><br>
 --> Rest of the Columns are used to find regression for Price.<br><br>
---> Dataset is already cleaned,no preprocessing required.<br>
+--> Dataset is already cleaned,no preprocessing required.<br><br>
+--> Linear Regression is implemented on this dataset.<br>
 
 <h2>Credit Card Fraud Dataset</h2>
 --> Dataset is taken from: <a href="https://www.kaggle.com/code/janiobachmann/credit-fraud-dealing-with-imbalanced-datasets/input
 "><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-1024.png" height =40 width=40 title="Salary Dataset" alt="Salary Dataset"> </a><br><br>
 --> Contains Fraud data for Classification.<br><br>
 --> The dataset has 31 columns.<br><br>
---> Dataset is already cleaned,no preprocessing required.<br>
+--> Dataset is already cleaned,no preprocessing required.<br><br>
+--> Logistic Regression is implemented on this dataset.<br>
 
 <h2>Market Bucket Optimization Dataset</h2>
 --> Dataset is taken from: <a href="https://www.kaggle.com/datasets/dragonheir/basket-optimisation
