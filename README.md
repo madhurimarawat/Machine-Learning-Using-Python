@@ -252,7 +252,7 @@ This repository contains machine learning programs in the Python programming lan
 --> This dataset has multiple columns-Area Population, Address etc and Price(Output) and 5000 entries.<br><br>
 --> Rest of the Columns are used to find regression for Price.<br><br>
 --> Dataset is already cleaned,no preprocessing required.<br><br>
---> Linear Regression is implemented on this dataset.<br>
+--> Linear Regression and Principal Component Analysis is implemented on this dataset.<br>
 
 <h2>Credit Card Fraud Dataset</h2>
 --> Dataset is taken from: <a href="https://www.kaggle.com/code/janiobachmann/credit-fraud-dealing-with-imbalanced-datasets/input
@@ -279,7 +279,8 @@ This repository contains machine learning programs in the Python programming lan
 --> The dataset is typically split into 50,000 training images and 10,000 test images.<br><br>
 --> Common classes in CIFAR-10 include airplanes, automobiles, birds, cats, dogs, and more.<br><br>
 --> The primary purpose of CIFAR-10 is for image classification and object recognition.<br><br>
---> Researchers and developers often use it to benchmark and evaluate machine learning and deep learning algorithms.<br>
+--> Researchers and developers often use it to benchmark and evaluate machine learning and deep learning algorithms.<br><br>
+--> Neural Network is implemented on this dataset.<br>
 
 <h2>Mall Customers Dataset</h2>
 --> Dataset is taken from: <a href="https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python/data"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-1024.png" height =40 width=40 title="Housing Dataset" alt="Housing Dataset"> </a><br><br>
