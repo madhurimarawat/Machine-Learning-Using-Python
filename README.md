@@ -267,7 +267,8 @@ This repository contains machine learning programs in the Python programming lan
 "><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-1024.png" height =40 width=40 title="Salary Dataset" alt="Salary Dataset"> </a><br><br>
 --> Contains various product data for Apriori or association algorithm.<br><br>
 --> The dataset has 20 columns of data about various products.<br><br>
---> Dataset is already cleaned,no preprocessing required.<br>
+--> Dataset is already cleaned,no preprocessing required.<br><br>
+--> Apriori Algorithm is implemented on this dataset.<br>
 
 <h2>CIFAR-10 Dataset</h2>
 
@@ -284,7 +285,8 @@ This repository contains machine learning programs in the Python programming lan
 --> Dataset is taken from: <a href="https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python/data"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-1024.png" height =40 width=40 title="Housing Dataset" alt="Housing Dataset"> </a><br><br>
 --> Contains Mall Customers data for Clustering.<br><br>
 --> Gender, Age, Annual Income (k$) and Spending Score (1-100) columns are used to cluster data points.<br><br>
---> Dataset is already cleaned,no preprocessing required.
+--> Dataset is already cleaned,no preprocessing required.<br><br>
+--> K Means Clustering is implemented on this dataset.
 
 ---
 ### Deep Learning 🤖🛠🧠🕸️
