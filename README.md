@@ -16,7 +16,7 @@ This repository contains machine learning programs in the Python programming lan
 
 <h2>Pycharm</h2>
 
-- Visit the official website of pycharm: <a href="https://www.jetbrains.com/pycharm/"><img src="https://th.bing.com/th/id/R.c936445e15a65dfdba20a63e14e7df39?rik=fqWqO9kKIVlK7g&riu=http%3a%2f%2fassets.stickpng.com%2fimages%2f58481537cef1014c0b5e4968.png&ehk=dtrTKn1QsJ3%2b2TFlSfLR%2fxHdNYHdrqqCUUs8voipcI8%3d&risl=&pid=ImgRaw&r=0" title="PyCharm" alt="PyCharm" width="40" height="40"></a><br><br>
+- Visit the official website of pycharm: <a href="https://www.jetbrains.com/pycharm/"><img src="https://th.bing.com/th/id/R.c936445e15a65dfdba20a63e14e7df39?rik=fqWqO9kKIVlK7g&riu=http%3a%2f%2fassets.stickpng.com%2fimages%2f58481537cef1014c0b5e4968.png&ehk=dtrTKn1QsJ3%2b2TFlSfLR%2fxHdNYHdrqqCUUs8voipcI8%3d&risl=&pid=ImgRaw&r=0" title="PyCharm" alt="PyCharm" width="40" height="40"></a><br>
 - Download according to the platform that will be used like Linux, Macos or Windows.<br>
 - Two versions of Pycharm are avilable-<br><br>
 1. Community version <br>
