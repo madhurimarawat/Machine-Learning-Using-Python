@@ -1,7 +1,7 @@
 # Machine-Learning-Using-Python
 This repository contains machine learning programs in the Python programming language.
 <br><br>
-<img src="https://i.morioh.com/52c215bc5f.png" height=400 width=700>
+<img src="https://miro.medium.com/v2/resize:fit:1358/1*cG6U1qstYDijh9bPL42e-Q.jpeg" height=400 width=700>
 
 ---
 
