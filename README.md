@@ -40,8 +40,6 @@ This repository contains machine learning programs in the Python programming lan
 
 # Machine learning 🤖 🛠🧠
 
-<img src="https://www.analytixlabs.co.in/blog/wp-content/uploads/2018/10/Artboard-20-1.png" height=400 width=700>
-
 - Machine learning is a method of data analysis that automates analytical model building.<br>
 - It is a branch of artificial intelligence based on the idea that systems can learn from data, identify patterns and make decisions with minimal human intervention.<br>
 - Machine Learning algorithm learns from experience E with respect to some type of task T and performance measure P, if its performance at tasks in T, as measured by P, improves with experience E.<br>
